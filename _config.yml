@@ -1,0 +1,16 @@
+title: Xyra Cloud Blog
+description: Tips, guides, and updates from Xyra Cloud — your all-in-one cloud platform.
+url: "https://xyra-cloud.github.io"
+baseurl: "/blog"
+author: Xyra Cloud
+email: hello@xyracloud.com
+theme: minima
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+lang: en
+twitter_username: XyraCloud
+github_username: Xyra-Cloud
+show_excerpts: true
+minima:
+  skin: dark
